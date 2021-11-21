@@ -11,6 +11,6 @@ Building this project involved
   - Publishing the dashboard
 
 The dashboard can be found at :
-![]https://public.tableau.com/app/profile/harish.kumar7404
+https://public.tableau.com/app/profile/harish.kumar7404
 
 ## End
